@@ -1,6 +1,6 @@
-    """
-    This was the homework for session 3
-    """
+"""
+This was the homework for session 3
+"""
 
 import os 
 import glob
