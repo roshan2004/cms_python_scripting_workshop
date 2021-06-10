@@ -1,3 +1,7 @@
+    """
+    This was the homework for session 3
+    """
+
 import os 
 import glob
 import argparse
